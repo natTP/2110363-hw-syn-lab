@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../nanoLADA/adder.v" \
+"../../../../../nanoLADA/alu.v" \
+"../../../../../nanoLADA/control.v" \
+"../../../../../nanoLADA/extender.v" \
+"../../../../../nanoLADA/memory.v" \
+"../../../../../nanoLADA/mux2_1.v" \
+"../../../../../nanoLADA/nanocpu.v" \
+"../../../../../nanoLADA/regfile.v" \
+"../../../../../nanoLADA/rom.v" \
+"../../../../../nanoLADA/nano_sc_system.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/_Schoolware/_CU/Y3T1/HW SYN LAB/lab1/lab1.srcs/sources_1/new/dFlipFlop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dFlipFlop
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'q' is not allowed [D:/Documents/_Schoolware/_CU/Y3T1/HW SYN LAB/lab1/lab1.srcs/sources_1/new/dFlipFlop.v:30]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/_Schoolware/_CU/Y3T1/HW SYN LAB/lab1/lab1.srcs/sim_1/new/tester.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tester
+INFO: [VRFC 10-311] analyzing module testDFlipFlop
+INFO: [VRFC 10-2458] undeclared symbol q, assumed default net type wire [D:/Documents/_Schoolware/_CU/Y3T1/HW SYN LAB/lab1/lab1.srcs/sim_1/new/tester.v:67]
+INFO: [VRFC 10-311] analyzing module testShift
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents/_Schoolware/_CU/Y3T1/HW SYN LAB/lab1/lab1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

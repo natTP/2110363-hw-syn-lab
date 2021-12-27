@@ -1,0 +1,134 @@
+Time resolution is 1 ps
+         2 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        20 - mem[0000] -  xxxxxxxx
+
+         6 - A(REG[ 0]) -  00000000, B(REG[ 0]) -  00000000
+
+         6 - REG[ 0] <- 00000002
+        10 - A(REG[ 0]) -  00000002, B(REG[ 0]) -  00000002
+
+        10 - REG[ 0] <- 00000002
+       100 - mem[0001] -  00000001
+
+        14 - A(REG[ 1]) -  00000000, B(REG[ 1]) -  00000000
+
+        14 - REG[ 1] <- 00000004
+        18 - A(REG[ 0]) -  00000002, B(REG[ 1]) -  00000004
+
+        18 - REG[ 2] <- 00000006
+       180 - mem[0000] -  00000002
+
+        22 - A(REG[ 1]) -  00000004, B(REG[ 0]) -  00000002
+
+        22 - REG[ 3] <- 00000002
+       220 - mem[ffff] -  00000001
+
+       220 - mem[0001] -  xxxxxxxx
+
+        26 - A(REG[ 0]) -  00000002, B(REG[ 1]) -  00000004
+
+        26 - REG[ 4] <- 00000006
+       260 - mem[0000] -  00000002
+
+        30 - A(REG[ 0]) -  00000002, B(REG[ 1]) -  00000004
+
+        30 - REG[ 5] <- 00000000
+       300 - mem[0001] -  00000001
+
+        34 - A(REG[ 0]) -  00000002, B(REG[ 1]) -  00000004
+
+        34 - REG[ 6] <- 00000006
+       340 - mem[ffff] -  00000002
+
+        38 - A(REG[ 0]) -  00000002, B(REG[ 1]) -  00000004
+
+        38 - REG[ 7] <- fffffffe
+        42 - A(REG[ 0]) -  00000002, B(REG[ 1]) -  00000004
+
+        42 - REG[ 8] <- fffffffd
+       420 - mem[xxxx] -  xxxxxxxx
+
+        46 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        50 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        54 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        58 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        62 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        66 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        70 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        74 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        78 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        82 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        86 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        90 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        94 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+        98 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       102 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       106 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       110 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       114 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       118 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       122 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       126 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       130 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       134 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       138 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       142 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       146 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       150 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       154 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       158 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       162 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       166 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       170 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       174 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       178 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       182 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       186 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       190 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       194 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       198 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       202 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+       206 - A(REG[ x]) -  xxxxxxxx, B(REG[ x]) -  xxxxxxxx
+
+$finish called at time : 2100 ns : File "D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/nanoLADA/nano_sc_system.v" Line 34

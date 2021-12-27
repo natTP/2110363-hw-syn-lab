@@ -1,0 +1,11 @@
+all-writeups
+final-calculator
+helpfriend
+skilltest
+*.docx
+*/*.cache
+*/*.gen
+*/*.hw
+*/*.ip_user_files
+*/*.runs
+*/*.sims

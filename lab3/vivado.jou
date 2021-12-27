@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Sep  7 15:52:07 2021
+# Process ID: 13712
+# Current directory: D:/Documents/_Schoolware/_CU/Y3T1/HW SYN LAB/lab3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14576 D:\Documents\_Schoolware\_CU\Y3T1\HW SYN LAB\lab3\lab3.xpr
+# Log file: D:/Documents/_Schoolware/_CU/Y3T1/HW SYN LAB/lab3/vivado.log
+# Journal file: D:/Documents/_Schoolware/_CU/Y3T1/HW SYN LAB/lab3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Documents/_Schoolware/_CU/Y3T1/HW SYN LAB/lab3/lab3.xpr}
+update_compile_order -fileset sources_1

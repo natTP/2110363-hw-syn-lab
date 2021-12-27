@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../components/7seg/SevenSegModule.v" \
+"../../../../../components/7seg/clockDiv.v" \
+"../../../../../components/switch/dFlipFlop.v" \
+"../../../../../components/switch/debouncer.v" \
+"../../../../lab4_1.srcs/sources_1/new/ramLIFO.v" \
+"../../../../../components/7seg/segmentDecoder.v" \
+"../../../../../components/switch/singlePulser.v" \
+"../../../../lab4_1.srcs/sources_1/new/system.v" \
+"../../../../lab4_1.srcs/sim_1/new/testSystem.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,14 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/components/7seg/SevenSegModule.v,1630396089,verilog,,D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/components/7seg/clockDiv.v,,sevenSegModule,,,,,,,,
+D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/components/7seg/clockDiv.v,1630392619,verilog,,D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/components/switch/dFlipFlop.v,,clockDiv,,,,,,,,
+D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/components/7seg/segmentDecoder.v,1631631829,verilog,,D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/components/switch/singlePulser.v,,segmentDecoder,,,,,,,,
+D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/components/switch/dFlipFlop.v,1631616102,verilog,,D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/components/switch/debouncer.v,,dFlipFlop,,,,,,,,
+D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/components/switch/debouncer.v,1631615011,verilog,,D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/lab4_1/lab4_1.srcs/sources_1/new/ramLIFO.v,,debouncer,,,,,,,,
+D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/components/switch/singlePulser.v,1630928949,verilog,,D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/lab4_1/lab4_1.srcs/sources_1/new/system.v,,singlePulser,,,,,,,,
+D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/lab4_1/lab4_1.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/lab4_1/lab4_1.srcs/sim_1/new/testSystem.v,1631605215,verilog,,,,testSystem,,,,,,,,
+D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/lab4_1/lab4_1.srcs/sources_1/new/ramLIFO.v,1631614329,verilog,,D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/components/7seg/segmentDecoder.v,,ramLIFO,,,,,,,,
+D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/lab4_1/lab4_1.srcs/sources_1/new/system.v,1631616018,verilog,,D:/Documents/_Schoolware/_CU/Y3T1/HWSYNLAB/lab4_1/lab4_1.srcs/sim_1/new/testSystem.v,,system,,,,,,,,
