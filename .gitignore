@@ -8,4 +8,4 @@ skilltest
 */*.hw
 */*.ip_user_files
 */*.runs
-*/*.sims
+*/*.sim
